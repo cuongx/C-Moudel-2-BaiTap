@@ -1,0 +1,13 @@
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.exe
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.deps.json
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.runtimeconfig.json
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.runtimeconfig.dev.json
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.dll
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\bin\Debug\netcoreapp3.1\DictionnayDemo.pdb
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.csprojAssemblyReference.cache
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.AssemblyInfoInputs.cache
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.AssemblyInfo.cs
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.dll
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.pdb
+D:\Moudel 2\DictionnayDemo\DictionnayDemo\obj\Debug\netcoreapp3.1\DictionnayDemo.genruntimeconfig.cache

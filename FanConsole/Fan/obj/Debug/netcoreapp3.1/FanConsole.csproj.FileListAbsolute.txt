@@ -1,0 +1,13 @@
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.exe
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.deps.json
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.runtimeconfig.json
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.runtimeconfig.dev.json
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.dll
+D:\Moudel 2\FanConsole\FanConsole\bin\Debug\netcoreapp3.1\FanConsole.pdb
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.csprojAssemblyReference.cache
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.csproj.CoreCompileInputs.cache
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.AssemblyInfoInputs.cache
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.AssemblyInfo.cs
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.dll
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.pdb
+D:\Moudel 2\FanConsole\FanConsole\obj\Debug\netcoreapp3.1\FanConsole.genruntimeconfig.cache

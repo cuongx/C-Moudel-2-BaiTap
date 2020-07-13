@@ -1,0 +1,23 @@
+{
+  "newShops":[
+    {
+      "Orderid": "1",
+      "hang": "";
+      "Sumtotal": 5,
+      "Timeout": "",
+      "orderDetails": [
+        {
+          "name": "Dinh Xuan Cuong",
+          "age": 18,
+          "diachi": "MInh Hoa",
+          "price": 7.000,
+          "count": "1",
+          "Total": 7.000
+
+        }
+      ]
+
+    }
+  ]
+
+}

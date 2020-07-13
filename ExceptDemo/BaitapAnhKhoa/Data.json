@@ -1,0 +1,54 @@
+{
+  "Students": [
+    {
+      "MaHS": "DHT15",
+      "HoTen": "Ha Van Thuong",
+      "GioiTinh": "Nam",
+      "SubjectList": {
+        "Toan": 9.0,
+        "Ly": 8.5,
+        "Hoa": 8.0
+      }
+    },
+    {
+      "MaHS": "DHT16",
+      "HoTen": "Ha Van Thang",
+      "GioiTinh": "Nam",
+      "SubjectList": {
+        "Toan": 8.0,
+        "Ly": 7.5,
+        "Hoa": 7.0
+      }
+    },
+    {
+      "MaHS": "DHT17",
+      "HoTen": "Bui Bao Ngan",
+      "GioiTinh": "Nu",
+      "SubjectList": {
+        "Toan": 8.5,
+        "Ly": 8.0,
+        "Hoa": 8.5
+      }
+    },
+    {
+      "MaHS": "DHT18",
+      "HoTen": "Le Vu",
+      "GioiTinh": "Nam",
+      "SubjectList": {
+        "Toan": 8.0,
+        "Ly": 7.0,
+        "Hoa": 6.5
+      }
+    },
+    {
+      "MaHS": "DHT19",
+      "HoTen": "Tran Duc",
+      "GioiTinh": "Nam",
+      "SubjectList": {
+        "Toan": 8.0,
+        "Ly": 8.0,
+        "Hoa": 8.5
+      }
+    }
+  ]
+}

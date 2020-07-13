@@ -1,0 +1,13 @@
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.exe
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.deps.json
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.runtimeconfig.json
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.runtimeconfig.dev.json
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.dll
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\bin\Debug\netcoreapp3.1\IndexOutRangOfExcept.pdb
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.csproj.CoreCompileInputs.cache
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.AssemblyInfoInputs.cache
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.AssemblyInfo.cs
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.dll
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.pdb
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.genruntimeconfig.cache
+D:\Moudel 2\TryCatDemo\IndexOutRangOfExcept\obj\Debug\netcoreapp3.1\IndexOutRangOfExcept.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTG1M6IP04AkQUmtrC4rxQtm77Tv67B9L3pAV1wqIrR928IBUwjuw1sXm/S6Evc1+ydEbXiAmHXnCZpjasrRYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Moudel 2\\ExceptDemo\\ExceptDemo\\ExceptDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

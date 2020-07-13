@@ -1,0 +1,13 @@
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.csprojAssemblyReference.cache
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.csproj.CoreCompileInputs.cache
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.AssemblyInfoInputs.cache
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.AssemblyInfo.cs
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.exe
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.deps.json
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.runtimeconfig.json
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.runtimeconfig.dev.json
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.dll
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\bin\Debug\netcoreapp3.1\Baitapanhkhoa.pdb
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.dll
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.pdb
+D:\Moudel 2\BaiTapDeMo\Baitapanhkhoa\obj\Debug\netcoreapp3.1\Baitapanhkhoa.genruntimeconfig.cache

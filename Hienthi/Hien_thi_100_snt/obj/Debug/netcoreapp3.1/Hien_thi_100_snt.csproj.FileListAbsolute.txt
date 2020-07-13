@@ -1,0 +1,13 @@
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.exe
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.deps.json
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.runtimeconfig.json
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.runtimeconfig.dev.json
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.dll
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\bin\Debug\netcoreapp3.1\Hien_thi_100_snt.pdb
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.AssemblyInfoInputs.cache
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.AssemblyInfo.cs
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.dll
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.pdb
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.genruntimeconfig.cache
+D:\Moudel 2\Hienthi\Hien_thi_100_snt\obj\Debug\netcoreapp3.1\Hien_thi_100_snt.csprojAssemblyReference.cache

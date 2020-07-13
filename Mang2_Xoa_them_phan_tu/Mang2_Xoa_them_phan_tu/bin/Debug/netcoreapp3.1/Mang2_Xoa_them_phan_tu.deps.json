@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mang2_Xoa_them_phan_tu/1.0.0": {
+        "runtime": {
+          "Mang2_Xoa_them_phan_tu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mang2_Xoa_them_phan_tu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

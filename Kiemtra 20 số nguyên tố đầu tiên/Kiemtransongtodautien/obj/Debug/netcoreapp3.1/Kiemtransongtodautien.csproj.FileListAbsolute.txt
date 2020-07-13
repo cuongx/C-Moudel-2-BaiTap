@@ -1,0 +1,13 @@
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.exe
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.deps.json
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.runtimeconfig.json
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.runtimeconfig.dev.json
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.dll
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\bin\Debug\netcoreapp3.1\Kiemtransongtodautien.pdb
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.csprojAssemblyReference.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.AssemblyInfoInputs.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.AssemblyInfo.cs
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.dll
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.pdb
+D:\Moudel 2\Ungdungchuyendoitiente\Kiemtransongtodautien\obj\Debug\netcoreapp3.1\Kiemtransongtodautien.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.exe
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.deps.json
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.runtimeconfig.json
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.runtimeconfig.dev.json
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.dll
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\bin\Debug\netcoreapp3.1\Cau1Demo.pdb
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.csprojAssemblyReference.cache
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.AssemblyInfoInputs.cache
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.AssemblyInfo.cs
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.dll
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.pdb
+D:\Moudel 2\Cau1Kiemtra\Cau1Demo\obj\Debug\netcoreapp3.1\Cau1Demo.genruntimeconfig.cache

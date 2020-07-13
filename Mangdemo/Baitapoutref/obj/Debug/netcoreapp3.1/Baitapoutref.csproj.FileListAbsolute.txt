@@ -1,0 +1,13 @@
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.exe
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.deps.json
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.runtimeconfig.json
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.runtimeconfig.dev.json
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.dll
+D:\Moudel 2\Mangdemo\Baitapoutref\bin\Debug\netcoreapp3.1\Baitapoutref.pdb
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.csprojAssemblyReference.cache
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.AssemblyInfoInputs.cache
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.AssemblyInfo.cs
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.dll
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.pdb
+D:\Moudel 2\Mangdemo\Baitapoutref\obj\Debug\netcoreapp3.1\Baitapoutref.genruntimeconfig.cache

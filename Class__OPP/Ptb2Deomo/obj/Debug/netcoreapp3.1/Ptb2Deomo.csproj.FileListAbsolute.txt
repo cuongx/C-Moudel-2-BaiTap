@@ -1,0 +1,13 @@
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.exe
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.deps.json
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.runtimeconfig.json
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.runtimeconfig.dev.json
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.dll
+D:\Moudel 2\Class__OPP\Ptb2Deomo\bin\Debug\netcoreapp3.1\Ptb2Deomo.pdb
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.csprojAssemblyReference.cache
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.AssemblyInfoInputs.cache
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.AssemblyInfo.cs
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.dll
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.pdb
+D:\Moudel 2\Class__OPP\Ptb2Deomo\obj\Debug\netcoreapp3.1\Ptb2Deomo.genruntimeconfig.cache

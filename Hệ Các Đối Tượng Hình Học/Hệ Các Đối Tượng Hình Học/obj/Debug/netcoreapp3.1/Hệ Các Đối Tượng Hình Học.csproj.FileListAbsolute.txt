@@ -1,0 +1,13 @@
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.exe
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.deps.json
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.runtimeconfig.json
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.runtimeconfig.dev.json
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.dll
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\bin\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.pdb
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.csprojAssemblyReference.cache
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.AssemblyInfoInputs.cache
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.AssemblyInfo.cs
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.dll
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.pdb
+D:\Moudel 2\Hệ Các Đối Tượng Hình Học\Hệ Các Đối Tượng Hình Học\obj\Debug\netcoreapp3.1\Hệ Các Đối Tượng Hình Học.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ÔNTẬPMOUDEL2/1.0.0": {
+        "runtime": {
+          "ÔNTẬPMOUDEL2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ÔNTẬPMOUDEL2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

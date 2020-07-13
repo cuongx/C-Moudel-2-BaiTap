@@ -1,0 +1,13 @@
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.exe
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.deps.json
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.runtimeconfig.json
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.runtimeconfig.dev.json
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.dll
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\bin\Debug\netcoreapp3.1\Ungdungchuyendoitiente.pdb
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.csprojAssemblyReference.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.AssemblyInfoInputs.cache
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.AssemblyInfo.cs
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.dll
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.pdb
+D:\Moudel 2\Ungdungchuyendoitiente\Ungdungchuyendoitiente\obj\Debug\netcoreapp3.1\Ungdungchuyendoitiente.genruntimeconfig.cache

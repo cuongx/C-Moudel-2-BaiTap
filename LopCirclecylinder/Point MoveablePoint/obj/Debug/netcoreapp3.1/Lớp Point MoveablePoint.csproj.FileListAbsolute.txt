@@ -1,0 +1,13 @@
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.exe
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.deps.json
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.runtimeconfig.json
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.runtimeconfig.dev.json
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.dll
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\bin\Debug\netcoreapp3.1\Lớp Point MoveablePoint.pdb
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.csprojAssemblyReference.cache
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.csproj.CoreCompileInputs.cache
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.AssemblyInfoInputs.cache
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.AssemblyInfo.cs
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.dll
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.pdb
+D:\Moudel 2\LopCirclecylinder\Point MoveablePoint\obj\Debug\netcoreapp3.1\Lớp Point MoveablePoint.genruntimeconfig.cache

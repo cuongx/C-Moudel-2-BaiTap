@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ptb2Deomo/1.0.0": {
+        "runtime": {
+          "Ptb2Deomo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ptb2Deomo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

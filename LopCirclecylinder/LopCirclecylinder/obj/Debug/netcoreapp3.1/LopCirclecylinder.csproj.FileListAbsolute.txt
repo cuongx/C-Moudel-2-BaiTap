@@ -1,0 +1,13 @@
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.exe
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.deps.json
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.runtimeconfig.json
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.runtimeconfig.dev.json
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.dll
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\bin\Debug\netcoreapp3.1\LopCirclecylinder.pdb
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.csprojAssemblyReference.cache
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.csproj.CoreCompileInputs.cache
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.AssemblyInfoInputs.cache
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.AssemblyInfo.cs
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.dll
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.pdb
+D:\Moudel 2\LopCirclecylinder\LopCirclecylinder\obj\Debug\netcoreapp3.1\LopCirclecylinder.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+D:\Moudel 2\KiemtraMoudel2\BaiTap2\bin\Debug\netcoreapp3.1\BaiTap2.exe
+D:\Moudel 2\KiemtraMoudel2\BaiTap2\obj\Debug\netcoreapp3.1\BaiTap2.csprojAssemblyReference.cache
+D:\Moudel 2\KiemtraMoudel2\BaiTap2\obj\Debug\netcoreapp3.1\BaiTap2.AssemblyInfoInputs.cache
+D:\Moudel 2\KiemtraMoudel2\BaiTap2\obj\Debug\netcoreapp3.1\BaiTap2.AssemblyInfo.cs

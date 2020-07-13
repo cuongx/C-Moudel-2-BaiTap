@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties outcome_1json__JsonSchema="},{&quot;MaHS&quot;:&quot;DHT19&quot;,&quot;HoTen&quot;:&quot;Tran Duc&quot;,&quot;GioiTinh&quot;:&quot;Nam&quot;,&quot;DTB&quot;:8.166666666666666,&quot;XepLoai&quot;:&quot;Gioi&quot;},{&quot;MaHS&quot;:&quot;DHT16&quot;,&quot;HoTen&quot;:&quot;Ha Van Thang&quot;,&quot;GioiTinh&quot;:&quot;Nam&quot;,&quot;DTB&quot;:7.5,&quot;XepLoai&quot;:&quot;Khá&quot;},{&quot;MaHS&quot;:&quot;DHT18&quot;,&quot;HoTen&quot;:&quot;Le Vu&quot;,&quot;GioiTinh&quot;:&quot;Nam&quot;,&quot;DTB&quot;:7.166666666666667,&quot;XepLoai&quot;:&quot;Khá&quot;}]}" /></VisualStudio></ProjectExtensions>
+
+</Project>

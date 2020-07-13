@@ -1,0 +1,13 @@
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.AssemblyInfoInputs.cache
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.AssemblyInfo.cs
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.exe
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.deps.json
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.runtimeconfig.json
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.runtimeconfig.dev.json
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.dll
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\bin\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.pdb
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.dll
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.pdb
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.genruntimeconfig.cache
+D:\Moudel 2\Hienthi\Kiem_tra_thang_trong_nam\obj\Debug\netcoreapp3.1\Kiem_tra_thang_trong_nam.csprojAssemblyReference.cache

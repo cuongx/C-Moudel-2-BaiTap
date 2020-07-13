@@ -1,0 +1,15 @@
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.exe
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.csprojAssemblyReference.cache
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.AssemblyInfoInputs.cache
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.AssemblyInfo.cs
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.deps.json
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.runtimeconfig.json
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.runtimeconfig.dev.json
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.dll
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\ExepctCafeDeMo.pdb
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.csproj.CopyComplete
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.dll
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.pdb
+D:\Moudel 2\ExepctCafeDeMo\ExepctCafeDeMo\obj\Debug\netcoreapp3.1\ExepctCafeDeMo.genruntimeconfig.cache

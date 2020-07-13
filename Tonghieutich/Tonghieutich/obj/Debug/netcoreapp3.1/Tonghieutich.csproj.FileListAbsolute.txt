@@ -1,0 +1,13 @@
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.exe
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.deps.json
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.runtimeconfig.json
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.runtimeconfig.dev.json
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.dll
+D:\Moudel 2\Tonghieutich\Tonghieutich\bin\Debug\netcoreapp3.1\Tonghieutich.pdb
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.csprojAssemblyReference.cache
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.AssemblyInfoInputs.cache
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.AssemblyInfo.cs
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.dll
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.pdb
+D:\Moudel 2\Tonghieutich\Tonghieutich\obj\Debug\netcoreapp3.1\Tonghieutich.genruntimeconfig.cache

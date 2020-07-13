@@ -1,0 +1,13 @@
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.csprojAssemblyReference.cache
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.AssemblyInfoInputs.cache
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.AssemblyInfo.cs
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.exe
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.deps.json
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.runtimeconfig.json
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.runtimeconfig.dev.json
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.dll
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\bin\Debug\netcoreapp3.1\Cau3Kiemtra.pdb
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.dll
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.pdb
+D:\Moudel 2\Cau1Kiemtra\Cau3Kiemtra\obj\Debug\netcoreapp3.1\Cau3Kiemtra.genruntimeconfig.cache

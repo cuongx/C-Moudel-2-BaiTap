@@ -1,0 +1,13 @@
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.exe
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.deps.json
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.runtimeconfig.json
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.runtimeconfig.dev.json
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.dll
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\bin\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.pdb
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.csprojAssemblyReference.cache
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.AssemblyInfoInputs.cache
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.AssemblyInfo.cs
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.dll
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.pdb
+D:\Moudel 2\TryCatDemo\DivideByZeroExceptionDemo\obj\Debug\netcoreapp3.1\DivideByZeroExceptionDemo.genruntimeconfig.cache

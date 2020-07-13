@@ -1,0 +1,13 @@
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.exe
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.deps.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.runtimeconfig.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.runtimeconfig.dev.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.dll
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\bin\Debug\netcoreapp3.1\thêm_phan_tu.pdb
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.csprojAssemblyReference.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.AssemblyInfoInputs.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.AssemblyInfo.cs
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.dll
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.pdb
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\Mang2_Xoa_them_phan_tu\obj\Debug\netcoreapp3.1\thêm_phan_tu.genruntimeconfig.cache

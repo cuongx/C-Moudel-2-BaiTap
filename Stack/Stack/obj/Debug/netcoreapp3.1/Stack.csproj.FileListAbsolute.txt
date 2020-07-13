@@ -1,0 +1,4 @@
+D:\Moudel 2\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csprojAssemblyReference.cache
+D:\Moudel 2\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+D:\Moudel 2\Stack\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs

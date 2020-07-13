@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="FileDemo3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="inputData\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="FileDemo3.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPPlus.Core" Version="1.5.4" />
+  </ItemGroup>
+
+</Project>

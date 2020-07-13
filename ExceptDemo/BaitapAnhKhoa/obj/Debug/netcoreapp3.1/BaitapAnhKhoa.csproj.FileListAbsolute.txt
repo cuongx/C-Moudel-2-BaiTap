@@ -1,0 +1,15 @@
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.exe
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.AssemblyInfoInputs.cache
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.AssemblyInfo.cs
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.deps.json
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.runtimeconfig.json
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.runtimeconfig.dev.json
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.dll
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\BaitapAnhKhoa.pdb
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.csprojAssemblyReference.cache
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.csproj.CoreCompileInputs.cache
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.csproj.CopyComplete
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.dll
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.pdb
+D:\Moudel 2\ExceptDemo\BaitapAnhKhoa\obj\Debug\netcoreapp3.1\BaitapAnhKhoa.genruntimeconfig.cache

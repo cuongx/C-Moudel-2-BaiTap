@@ -1,0 +1,13 @@
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.exe
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.deps.json
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.runtimeconfig.json
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.runtimeconfig.dev.json
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.dll
+D:\Moudel 2\InterFace\Comparse\bin\Debug\netcoreapp3.1\Comparse.pdb
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.csprojAssemblyReference.cache
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.csproj.CoreCompileInputs.cache
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.AssemblyInfoInputs.cache
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.AssemblyInfo.cs
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.dll
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.pdb
+D:\Moudel 2\InterFace\Comparse\obj\Debug\netcoreapp3.1\Comparse.genruntimeconfig.cache

@@ -1,0 +1,44 @@
+﻿{
+  "students": [
+    {
+      "MaHS": 1,
+      "HoTen": "Đinh Xuân Cường",
+      "GioiTinh": "Nam",
+      "Lop": 12,
+      "MonHoc": [
+        {
+          "Toan": 9.0,
+          "Ly": 8.0,
+          "Hoa": 5.0
+        }
+      ]
+    },
+    {
+      "MaHS": 2,
+      "HoTen": "Nguyễn Đình Tuấn",
+      "GioiTinh": "Nam",
+      "Lop": 12,
+      "MonHoc": [
+        {
+          "Toan": 7.0,
+          "Ly": 8.2,
+          "Hoa": 6.0
+        }
+      ]
+    },
+    {
+      "MaHS": 3,
+      "HoTen": "Đinh Mạnh Quang",
+      "GioiTinh": "Nam",
+      "Lop": 12,
+      "MonHoc": [
+        {
+          "Toan": 7.0,
+          "Ly": 6.5,
+          "Hoa": 8.0
+        }
+      ]
+    }
+  ]
+
+}

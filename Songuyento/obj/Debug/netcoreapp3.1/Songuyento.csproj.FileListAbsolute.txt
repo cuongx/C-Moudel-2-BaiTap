@@ -1,0 +1,13 @@
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.exe
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.deps.json
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.runtimeconfig.json
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.runtimeconfig.dev.json
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.dll
+D:\Moudel 2\Songuyento\bin\Debug\netcoreapp3.1\Songuyento.pdb
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.csprojAssemblyReference.cache
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.AssemblyInfoInputs.cache
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.AssemblyInfo.cs
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.dll
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.pdb
+D:\Moudel 2\Songuyento\obj\Debug\netcoreapp3.1\Songuyento.genruntimeconfig.cache

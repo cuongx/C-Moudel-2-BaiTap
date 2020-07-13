@@ -1,0 +1,13 @@
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.exe
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.deps.json
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.runtimeconfig.json
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.runtimeconfig.dev.json
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.dll
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\bin\Debug\netcoreapp3.1\Thêm_phân_tu_mang.pdb
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.AssemblyInfoInputs.cache
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.AssemblyInfo.cs
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.dll
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.pdb
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.genruntimeconfig.cache
+D:\Moudel 2\Mangdemo\Thêm_phân_tu_mang\obj\Debug\netcoreapp3.1\Thêm_phân_tu_mang.csprojAssemblyReference.cache

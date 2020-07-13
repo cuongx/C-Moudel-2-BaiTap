@@ -1,0 +1,13 @@
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.exe
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.deps.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.runtimeconfig.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.runtimeconfig.dev.json
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.dll
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\bin\Debug\netcoreapp3.1\hienthi100Snt.pdb
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.csprojAssemblyReference.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.AssemblyInfoInputs.cache
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.AssemblyInfo.cs
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.dll
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.pdb
+D:\Moudel 2\Mang2_Xoa_them_phan_tu\hienthi100Snt\obj\Debug\netcoreapp3.1\hienthi100Snt.genruntimeconfig.cache

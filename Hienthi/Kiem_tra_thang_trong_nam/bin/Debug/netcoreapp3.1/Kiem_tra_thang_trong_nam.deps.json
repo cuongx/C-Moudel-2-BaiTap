@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kiem_tra_thang_trong_nam/1.0.0": {
+        "runtime": {
+          "Kiem_tra_thang_trong_nam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kiem_tra_thang_trong_nam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

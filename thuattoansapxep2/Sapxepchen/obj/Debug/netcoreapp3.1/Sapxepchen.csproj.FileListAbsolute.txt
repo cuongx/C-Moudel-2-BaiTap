@@ -1,0 +1,13 @@
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.exe
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.deps.json
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.runtimeconfig.json
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.runtimeconfig.dev.json
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.dll
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\bin\Debug\netcoreapp3.1\Sapxepchen.pdb
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.csprojAssemblyReference.cache
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.csproj.CoreCompileInputs.cache
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.AssemblyInfoInputs.cache
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.AssemblyInfo.cs
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.dll
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.pdb
+D:\Moudel 2\thuattoansapxep2\Sapxepchen\obj\Debug\netcoreapp3.1\Sapxepchen.genruntimeconfig.cache

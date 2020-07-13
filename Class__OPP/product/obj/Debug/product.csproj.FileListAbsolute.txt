@@ -1,0 +1,7 @@
+D:\Moudel 2\product\bin\Debug\product.exe.config
+D:\Moudel 2\product\bin\Debug\product.exe
+D:\Moudel 2\product\bin\Debug\product.pdb
+D:\Moudel 2\product\obj\Debug\product.csprojAssemblyReference.cache
+D:\Moudel 2\product\obj\Debug\product.csproj.CoreCompileInputs.cache
+D:\Moudel 2\product\obj\Debug\product.exe
+D:\Moudel 2\product\obj\Debug\product.pdb

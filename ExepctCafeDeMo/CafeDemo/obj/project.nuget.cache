@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpyrqORUrdqrcE8HODarIWhfkLUsDhJHrvJtarjt4TccoqBuhldSIcmVuGadpClEi28fRj3t/IOhpDB/Hn8lew==",
+  "success": true,
+  "projectFilePath": "D:\\Moudel 2\\ExepctCafeDeMo\\CafeDemo\\CafeDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

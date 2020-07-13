@@ -1,0 +1,13 @@
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.csprojAssemblyReference.cache
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.AssemblyInfoInputs.cache
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.AssemblyInfo.cs
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.exe
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.deps.json
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.runtimeconfig.json
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.runtimeconfig.dev.json
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.dll
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\bin\Debug\netcoreapp3.1\BaitapDemo.pdb
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.dll
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.pdb
+D:\Moudel 2\ÔNTẬPMOUDEL2\BaitapDemo\obj\Debug\netcoreapp3.1\BaitapDemo.genruntimeconfig.cache

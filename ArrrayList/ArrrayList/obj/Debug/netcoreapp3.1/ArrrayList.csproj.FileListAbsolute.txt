@@ -1,0 +1,13 @@
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.exe
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.deps.json
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.runtimeconfig.json
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.runtimeconfig.dev.json
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.dll
+D:\Moudel 2\ArrrayList\ArrrayList\bin\Debug\netcoreapp3.1\ArrrayList.pdb
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.csprojAssemblyReference.cache
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.csproj.CoreCompileInputs.cache
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.AssemblyInfoInputs.cache
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.AssemblyInfo.cs
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.dll
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.pdb
+D:\Moudel 2\ArrrayList\ArrrayList\obj\Debug\netcoreapp3.1\ArrrayList.genruntimeconfig.cache

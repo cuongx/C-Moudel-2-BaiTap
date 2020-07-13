@@ -1,0 +1,13 @@
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.exe
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.deps.json
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.runtimeconfig.json
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.runtimeconfig.dev.json
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.dll
+D:\Moudel 2\Hastable\Hastable\bin\Debug\netcoreapp3.1\Hastable.pdb
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.csprojAssemblyReference.cache
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.AssemblyInfoInputs.cache
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.AssemblyInfo.cs
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.dll
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.pdb
+D:\Moudel 2\Hastable\Hastable\obj\Debug\netcoreapp3.1\Hastable.genruntimeconfig.cache

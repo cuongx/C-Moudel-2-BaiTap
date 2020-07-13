@@ -1,0 +1,13 @@
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.exe
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.deps.json
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.runtimeconfig.json
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.runtimeconfig.dev.json
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.dll
+D:\Moudel 2\Kethuaclass\Cricle\bin\Debug\netcoreapp3.1\Cricle.pdb
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.csprojAssemblyReference.cache
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.AssemblyInfoInputs.cache
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.AssemblyInfo.cs
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.dll
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.pdb
+D:\Moudel 2\Kethuaclass\Cricle\obj\Debug\netcoreapp3.1\Cricle.genruntimeconfig.cache

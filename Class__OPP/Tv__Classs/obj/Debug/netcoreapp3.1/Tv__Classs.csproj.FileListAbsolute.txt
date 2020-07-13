@@ -1,0 +1,13 @@
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.exe
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.deps.json
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.runtimeconfig.json
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.runtimeconfig.dev.json
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.dll
+D:\Moudel 2\Class__OPP\Tv__Classs\bin\Debug\netcoreapp3.1\Tv__Classs.pdb
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.csprojAssemblyReference.cache
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.AssemblyInfoInputs.cache
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.AssemblyInfo.cs
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.dll
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.pdb
+D:\Moudel 2\Class__OPP\Tv__Classs\obj\Debug\netcoreapp3.1\Tv__Classs.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hien_thi_100_snt/1.0.0": {
+        "runtime": {
+          "Hien_thi_100_snt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hien_thi_100_snt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

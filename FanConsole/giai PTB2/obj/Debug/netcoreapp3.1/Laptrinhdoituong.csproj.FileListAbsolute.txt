@@ -1,0 +1,13 @@
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.exe
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.deps.json
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.runtimeconfig.json
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.runtimeconfig.dev.json
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.dll
+D:\Moudel 2\FanConsole\Laptrinhdoituong\bin\Debug\netcoreapp3.1\Laptrinhdoituong.pdb
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.csprojAssemblyReference.cache
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.csproj.CoreCompileInputs.cache
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.AssemblyInfoInputs.cache
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.AssemblyInfo.cs
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.dll
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.pdb
+D:\Moudel 2\FanConsole\Laptrinhdoituong\obj\Debug\netcoreapp3.1\Laptrinhdoituong.genruntimeconfig.cache

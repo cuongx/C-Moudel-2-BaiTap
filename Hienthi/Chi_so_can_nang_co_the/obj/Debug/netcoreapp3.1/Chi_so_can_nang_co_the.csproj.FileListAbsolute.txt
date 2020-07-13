@@ -1,0 +1,13 @@
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.exe
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.deps.json
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.runtimeconfig.json
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.runtimeconfig.dev.json
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.dll
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\bin\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.pdb
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.AssemblyInfoInputs.cache
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.AssemblyInfo.cs
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.dll
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.pdb
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.genruntimeconfig.cache
+D:\Moudel 2\Hienthi\Chi_so_can_nang_co_the\obj\Debug\netcoreapp3.1\Chi_so_can_nang_co_the.csprojAssemblyReference.cache

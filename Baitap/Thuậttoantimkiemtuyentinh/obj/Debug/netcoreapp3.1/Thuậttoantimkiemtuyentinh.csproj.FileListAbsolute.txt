@@ -1,0 +1,13 @@
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.exe
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.deps.json
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.runtimeconfig.json
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.runtimeconfig.dev.json
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.dll
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\bin\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.pdb
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.csprojAssemblyReference.cache
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.AssemblyInfoInputs.cache
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.AssemblyInfo.cs
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.dll
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.pdb
+D:\Moudel 2\Baitap\Thuậttoantimkiemtuyentinh\obj\Debug\netcoreapp3.1\Thuậttoantimkiemtuyentinh.genruntimeconfig.cache

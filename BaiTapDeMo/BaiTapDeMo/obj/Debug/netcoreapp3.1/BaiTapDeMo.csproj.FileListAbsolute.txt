@@ -1,0 +1,13 @@
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.csprojAssemblyReference.cache
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.AssemblyInfoInputs.cache
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.AssemblyInfo.cs
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.exe
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.deps.json
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.runtimeconfig.json
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.runtimeconfig.dev.json
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.dll
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\bin\Debug\netcoreapp3.1\BaiTapDeMo.pdb
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.dll
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.pdb
+D:\Moudel 2\BaiTapDeMo\BaiTapDeMo\obj\Debug\netcoreapp3.1\BaiTapDeMo.genruntimeconfig.cache

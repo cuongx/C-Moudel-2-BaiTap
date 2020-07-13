@@ -1,0 +1,13 @@
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.exe
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.deps.json
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.runtimeconfig.json
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.runtimeconfig.dev.json
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.dll
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\bin\Debug\netcoreapp3.1\bt1Demo.pdb
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.csprojAssemblyReference.cache
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.AssemblyInfoInputs.cache
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.AssemblyInfo.cs
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.dll
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.pdb
+D:\Moudel 2\KiemtraMoudel2\bt1Demo\obj\Debug\netcoreapp3.1\bt1Demo.genruntimeconfig.cache

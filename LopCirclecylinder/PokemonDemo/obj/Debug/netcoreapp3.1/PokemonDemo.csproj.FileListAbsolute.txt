@@ -1,0 +1,13 @@
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.exe
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.deps.json
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.runtimeconfig.json
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.runtimeconfig.dev.json
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.dll
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\bin\Debug\netcoreapp3.1\PokemonDemo.pdb
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.csprojAssemblyReference.cache
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.AssemblyInfoInputs.cache
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.AssemblyInfo.cs
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.dll
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.pdb
+D:\Moudel 2\LopCirclecylinder\PokemonDemo\obj\Debug\netcoreapp3.1\PokemonDemo.genruntimeconfig.cache

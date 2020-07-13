@@ -1,0 +1,15 @@
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.exe
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.csprojAssemblyReference.cache
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.AssemblyInfoInputs.cache
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.AssemblyInfo.cs
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.deps.json
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.runtimeconfig.json
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.runtimeconfig.dev.json
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.dll
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Baitap2Demo.pdb
+D:\Moudel 2\ExceptDemo\Baitap2Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.csproj.CopyComplete
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.dll
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.pdb
+D:\Moudel 2\ExceptDemo\Baitap2Demo\obj\Debug\netcoreapp3.1\Baitap2Demo.genruntimeconfig.cache

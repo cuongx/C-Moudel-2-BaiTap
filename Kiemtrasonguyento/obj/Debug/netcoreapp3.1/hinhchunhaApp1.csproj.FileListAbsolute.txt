@@ -1,0 +1,13 @@
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.exe
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.deps.json
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.runtimeconfig.json
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.runtimeconfig.dev.json
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.dll
+D:\Moudel 2\hinhchunhaApp1\bin\Debug\netcoreapp3.1\hinhchunhaApp1.pdb
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.csproj.CoreCompileInputs.cache
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.AssemblyInfoInputs.cache
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.AssemblyInfo.cs
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.dll
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.pdb
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.genruntimeconfig.cache
+D:\Moudel 2\hinhchunhaApp1\obj\Debug\netcoreapp3.1\hinhchunhaApp1.csprojAssemblyReference.cache

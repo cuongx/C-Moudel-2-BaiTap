@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Cau1Kiemtra/1.0.0": {
+        "runtime": {
+          "Cau1Kiemtra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau1Kiemtra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

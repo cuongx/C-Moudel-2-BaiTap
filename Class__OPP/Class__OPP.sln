@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class__OPP", "Class__OPP\Class__OPP.csproj", "{40172494-FBED-4E18-BC3E-0292675D926E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tv__Classs", "Tv__Classs\Tv__Classs.csproj", "{5204C640-1262-40A4-852B-95C6537C9889}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Phuong_trinh_bac_2", "Phuong_trinh_bac_2\Phuong_trinh_bac_2.csproj", "{0D2E5479-B4BF-48E9-8522-47F49DEE54C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tu_Khoa_Static", "Tu_Khoa_Static\Tu_Khoa_Static.csproj", "{4CCB3F42-648E-4592-801B-4CA30D6D18A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{EA26619D-0EFD-4538-8F0F-1CA732A65AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ptb2Deomo", "Ptb2Deomo\Ptb2Deomo.csproj", "{F9EBE25B-C566-4797-AD98-9F0C13169977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40172494-FBED-4E18-BC3E-0292675D926E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40172494-FBED-4E18-BC3E-0292675D926E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40172494-FBED-4E18-BC3E-0292675D926E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40172494-FBED-4E18-BC3E-0292675D926E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5204C640-1262-40A4-852B-95C6537C9889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5204C640-1262-40A4-852B-95C6537C9889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5204C640-1262-40A4-852B-95C6537C9889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5204C640-1262-40A4-852B-95C6537C9889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2E5479-B4BF-48E9-8522-47F49DEE54C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2E5479-B4BF-48E9-8522-47F49DEE54C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2E5479-B4BF-48E9-8522-47F49DEE54C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2E5479-B4BF-48E9-8522-47F49DEE54C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCB3F42-648E-4592-801B-4CA30D6D18A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCB3F42-648E-4592-801B-4CA30D6D18A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCB3F42-648E-4592-801B-4CA30D6D18A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCB3F42-648E-4592-801B-4CA30D6D18A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA26619D-0EFD-4538-8F0F-1CA732A65AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA26619D-0EFD-4538-8F0F-1CA732A65AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA26619D-0EFD-4538-8F0F-1CA732A65AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA26619D-0EFD-4538-8F0F-1CA732A65AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EBE25B-C566-4797-AD98-9F0C13169977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EBE25B-C566-4797-AD98-9F0C13169977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EBE25B-C566-4797-AD98-9F0C13169977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EBE25B-C566-4797-AD98-9F0C13169977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CE4E85-7357-4689-AE10-6985E44F239C}
+	EndGlobalSection
+EndGlobal

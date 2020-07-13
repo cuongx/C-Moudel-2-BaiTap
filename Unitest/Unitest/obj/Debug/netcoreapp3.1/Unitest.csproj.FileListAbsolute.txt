@@ -1,0 +1,13 @@
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.exe
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.deps.json
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.runtimeconfig.json
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.runtimeconfig.dev.json
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.dll
+D:\Moudel 2\Unitest\Unitest\bin\Debug\netcoreapp3.1\Unitest.pdb
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.csprojAssemblyReference.cache
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.AssemblyInfoInputs.cache
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.AssemblyInfo.cs
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.dll
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.pdb
+D:\Moudel 2\Unitest\Unitest\obj\Debug\netcoreapp3.1\Unitest.genruntimeconfig.cache

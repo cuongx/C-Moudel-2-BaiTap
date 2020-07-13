@@ -1,0 +1,13 @@
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.exe
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.deps.json
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.runtimeconfig.json
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.runtimeconfig.dev.json
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.dll
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\bin\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.pdb
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.csprojAssemblyReference.cache
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.AssemblyInfoInputs.cache
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.AssemblyInfo.cs
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.dll
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.pdb
+D:\Moudel 2\Tổng_Hợp_Bài_tập\Tổng_Hợp_Bài_tập\obj\Debug\netcoreapp3.1\Tổng_Hợp_Bài_tập.genruntimeconfig.cache

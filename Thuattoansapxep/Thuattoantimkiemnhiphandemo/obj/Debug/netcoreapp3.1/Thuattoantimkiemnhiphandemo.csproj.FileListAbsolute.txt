@@ -1,0 +1,13 @@
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.exe
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.deps.json
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.runtimeconfig.json
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.runtimeconfig.dev.json
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.dll
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\bin\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.pdb
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.csprojAssemblyReference.cache
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.AssemblyInfoInputs.cache
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.AssemblyInfo.cs
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.dll
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.pdb
+D:\Moudel 2\Thuattoansapxep\Thuattoantimkiemnhiphandemo\obj\Debug\netcoreapp3.1\Thuattoantimkiemnhiphandemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.exe
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.deps.json
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.runtimeconfig.json
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.runtimeconfig.dev.json
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.dll
+D:\Moudel 2\Mangdemo\Mangdemo\bin\Debug\netcoreapp3.1\Mangdemo.pdb
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.csprojAssemblyReference.cache
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.AssemblyInfoInputs.cache
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.AssemblyInfo.cs
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.dll
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.pdb
+D:\Moudel 2\Mangdemo\Mangdemo\obj\Debug\netcoreapp3.1\Mangdemo.genruntimeconfig.cache

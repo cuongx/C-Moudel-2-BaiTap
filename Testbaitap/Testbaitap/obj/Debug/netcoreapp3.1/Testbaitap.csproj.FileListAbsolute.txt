@@ -1,0 +1,13 @@
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.exe
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.deps.json
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.runtimeconfig.json
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.runtimeconfig.dev.json
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.dll
+D:\Moudel 2\Testbaitap\Testbaitap\bin\Debug\netcoreapp3.1\Testbaitap.pdb
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.csprojAssemblyReference.cache
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.csproj.CoreCompileInputs.cache
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.AssemblyInfoInputs.cache
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.AssemblyInfo.cs
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.dll
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.pdb
+D:\Moudel 2\Testbaitap\Testbaitap\obj\Debug\netcoreapp3.1\Testbaitap.genruntimeconfig.cache

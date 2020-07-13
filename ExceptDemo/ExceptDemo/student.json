@@ -1,0 +1,65 @@
+﻿{
+  "students": [
+    {
+      "Id": 1,
+      "Fullname": " Anh Minh",
+      "Gender": "Nam",
+      "DOB": "12 Mar 2010",
+      "Courses": [
+        {
+          "name": "Toan",
+          "score": 4.5
+        },
+        {
+          "name": "Hoa",
+          "score": 7.9
+        },
+        {
+          "name": "Lí",
+          "score": 5.5
+        }
+      ]
+    },
+    {
+
+      "Id": 2,
+      "Fullname": "Xuân Cường",
+      "Gender": "Nam",
+      "DOB": "15 Mar 2001",
+      "Courses": [
+        {
+          "name": "Toan",
+          "score": 8.3
+        },
+        {
+          "name": "Hoa",
+          "score": 7.3
+        },
+        {
+          "name": "Lí",
+          "score": 6.3
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Fullname": "Văn Tèo",
+      "Gender": "Nam",
+      "DOB": "17 Mar 2010",
+      "Courses": [
+        {
+          "name": "Toan",
+          "score": 6
+        },
+        {
+          "name": "Hoa",
+          "score": 7
+        },
+        {
+          "name": "Lí",
+          "score": 9
+        }
+      ]
+    }
+  ]
+}
